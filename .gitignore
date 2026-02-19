@@ -1,0 +1,20 @@
+# --- Project Data & Artifacts ---
+data/
+
+# --- Python Environment & Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+
+# --- Editor Specifics (PyCharm) ---
+.idea/
+*.iws
+out/
+
+# --- OS Metadata ---
+.DS_Store
+Thumbs.db
